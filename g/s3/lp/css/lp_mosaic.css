@@ -1,0 +1,98 @@
+[data-block-layout] .root {
+	min-height: auto;
+}
+
+[data-block-layout] .root * {
+    box-sizing: border-box;
+}
+
+[data-block-layout] .root a {
+    color: rgb(0, 0, 238);
+    text-decoration: underline;
+}
+[data-block-layout] .root a:hover {
+    text-decoration: none;
+}
+
+/* [data-block-layout] .root img { height: auto; max-width: 100%} */
+
+[data-block-layout] .root .text-block-wrap-div {
+    flex-grow: 1;
+    max-width: 100%;
+}
+
+[data-block-layout] .root .text-block-wrap-div span a { color: inherit; }
+
+[data-block-layout] .root .is-removed {
+    display: none !important;
+}
+
+[data-block-layout] .root .for-mobile-view {
+    overflow: auto;
+}
+
+[data-block-layout] .root .mosaic-marquee__text {
+	white-space: nowrap;
+}
+
+[data-block-layout] .root select, textarea {
+	max-width: 100%;
+}
+
+[data-block-layout] .root input,
+[data-block-layout] .root button,
+[data-block-layout] .root textarea,
+[data-block-layout] .root select {
+    font: inherit;
+}
+
+[data-block-layout] .root [type=submit],
+[data-block-layout] .root button,
+[data-block-layout] .root label,
+[data-block-layout] .root .mosaic-accordion__title,
+[data-block-layout] .root .photo-swipe-image {
+    cursor: pointer;
+}
+
+[data-block-layout] .root .mosaic-wrap {
+	color: #000000;
+}
+
+[data-block-layout] .root .mosaic-map {
+	background-image: none !important;
+}
+
+[data-block-layout] .root .mosaic-form,
+[data-block-layout] .root .mosaic-form__form {
+	max-width: 100%;
+}
+
+[data-block-layout] .root .mosaic-form .mosaic-form__field[data-type-field="input_hidden"] {
+  	display: none !important;
+}
+
+[data-block-layout] .root .mosaic-video-iframe:not([src]),
+[data-block-layout] .root .mosaic-video-iframe[src=""],
+[data-block-layout] .root .mosaic-video-widget__iframe:not([src]),
+[data-block-layout] .root .mosaic-video-widget__iframe[src=""],
+[data-block-layout] .root .mosaic-video-widget__video:not([src]),
+[data-block-layout] .root .mosaic-video-widget__video[src=""]{
+    display: none !important;
+}
+
+[data-block-layout] .root .pswp__img--placeholder--blank {
+	background-color: transparent !important;
+}
+
+[data-block-layout] .root .mosaic-wrap .hor-menu .hor-menu__more_list {
+	display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    [data-block-layout] .root * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
