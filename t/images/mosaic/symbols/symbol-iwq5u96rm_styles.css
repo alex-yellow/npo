@@ -1,0 +1,15 @@
+@font-face { font-family: "Roboto Slab"; font-weight: 100; font-style: normal; font-display: swap; src: url("../../../../g/fonts/roboto_slab/roboto_slab-t.woff2") format("woff2"), url("../../../../g/fonts/roboto_slab/roboto_slab-t.woff") format("woff");}
+@font-face { font-family: "Roboto Slab"; font-weight: 300; font-style: normal; font-display: swap; src: url("../../../../g/fonts/roboto_slab/roboto_slab-l.woff2") format("woff2"), url("../../../../g/fonts/roboto_slab/roboto_slab-l.woff") format("woff");}
+@font-face { font-family: "Roboto Slab"; font-weight: 400; font-style: normal; font-display: swap; src: url("../../../../g/fonts/roboto_slab/roboto_slab-r.woff2") format("woff2"), url("../../../../g/fonts/roboto_slab/roboto_slab-r.woff") format("woff");}
+@font-face { font-family: "Roboto Slab"; font-weight: 700; font-style: normal; font-display: swap; src: url("../../../../g/fonts/roboto_slab/roboto_slab-b.woff2") format("woff2"), url("../../../../g/fonts/roboto_slab/roboto_slab-b.woff") format("woff");}
+:root {
+	--color-i8www48a7: 14, 182, 212;
+	--color-i2uvnclu6: 255, 255, 255;
+	--color-i7nk4td84: 7, 184, 90;
+	--color-i903ct9n7: 7, 184, 90;
+	--color-ii2bhkyjm: 255, 255, 255;
+	--color-i4m85jxce: 255, 255, 255;
+}
+
+.link-universal--u-iwq5u96rm { display: -webkit-box; display: -ms-flexbox; display: flex; cursor: pointer; vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; font-family: Roboto Slab, serif; font-size: 16px; line-height: normal; background-color: rgba(var(--color-i8www48a7), 1); color: rgba(var(--color-i2uvnclu6), 1); position: relative; text-decoration-line: none; width: 260px; height: 70px; justify-content: center;  -webkit-box-align: center; -ms-flex-align: center; align-items: center; font-weight: 700; border-top-left-radius: 250px; border-top-right-radius: 250px; border-bottom-right-radius: 250px; border-bottom-left-radius: 250px; box-shadow: none; margin-left: auto; margin-right: auto; text-transform: uppercase; transition-property: all; transition-duration: 300ms; transition-delay: 0ms; transition-timing-function: ease }
+.link-universal--u-iwq5u96rm:hover, .link-universal--u-iwq5u96rm.is-hover { background-color: rgba(var(--color-i903ct9n7), 0); color: rgba(var(--color-ii2bhkyjm), 1); box-shadow: inset 0px 0px 0px 2px rgba(var(--color-i4m85jxce), 1); transition-property: all; transition-duration: 300ms; transition-delay: 0ms; transition-timing-function: ease }

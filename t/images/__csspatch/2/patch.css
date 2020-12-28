@@ -1,0 +1,181 @@
+html h1 {
+  color: rgb(14, 182, 212);
+}
+
+html h2 {
+  color: rgb(14, 182, 212);
+}
+
+html .site-header__logo {
+  color: rgb(14, 182, 212);
+}
+
+html .site-header__logo:hover {
+  color: rgb(14, 182, 212);
+}
+
+html .site-header__contacts::before {
+  background-image: url("cee900e0ac695a4bf6787438376e79ca.svg");
+}
+
+html .menuTopWrapper__menuTop > li.s3-menu-allin-has:hover > a {
+  color: rgb(14, 182, 212);
+}
+
+html .menuTopWrapper__menuTop > li.s3-menu-allin-has:hover > a::after {
+  background-image: url("5eb2e1b3af6c1bf73ad4f2b17fddd8e1.svg");
+}
+
+html .menuTopWrapper__menuTop > li > a::before {
+  background-color: rgb(14, 182, 212);
+}
+
+html .menuTopWrapper__menuTop > li > a:hover {
+  color: rgb(14, 182, 212);
+}
+
+html .menuTopResponsive__menuTop > li > a:hover {
+  color: rgb(14, 182, 212);
+}
+
+html .menuTopResponsive__menuTop > li > a:hover .plusRightMenu::after {
+  background-image: url("5eb2e1b3af6c1bf73ad4f2b17fddd8e1.svg");
+}
+
+html .search_button {
+  border-top-color: rgb(14, 182, 212);
+  border-right-color: rgb(14, 182, 212);
+  border-bottom-color: rgb(14, 182, 212);
+  border-left-color: rgb(14, 182, 212);
+  background-image: url("c1d592798235aa2d8bc0edfc60103e0d.svg");
+}
+
+html .search_button.opened {
+  background-image: url("b90242cdcceeed9cf13944e312010169.svg");
+}
+
+html .site-search-wr form.search-form input.search-button {
+  background-image: url("c1d592798235aa2d8bc0edfc60103e0d.svg");
+}
+
+html .form_but {
+  background-image: -webkit-linear-gradient(rgb(85, 203, 225), rgb(16, 183, 212));
+  background-image: linear-gradient(rgb(85, 203, 225), rgb(16, 183, 212));
+}
+
+html .form_but:hover {
+  background-image: -webkit-linear-gradient(rgb(16, 183, 212), rgb(85, 203, 225));
+  background-image: linear-gradient(rgb(16, 183, 212), rgb(85, 203, 225));
+}
+
+html .form_but:active {
+  background-image: -webkit-linear-gradient(rgb(12, 168, 197), rgb(12, 171, 200));
+  background-image: linear-gradient(rgb(12, 168, 197), rgb(12, 171, 200));
+}
+
+html .service_block_wrap .service_block_inner .itemService .itemIcon .color_1 {
+  fill: rgb(14, 182, 212);
+}
+
+html .advatages_block_wrap {
+  border-top-color: rgb(236, 236, 236);
+}
+
+html .advatages_block_wrap .advatages_block_inner .advatages_block {
+  border-top-color: rgb(222, 221, 220);
+}
+
+html .advatages_block_wrap .advatages_block_inner .advatages_block span::before {
+  background-image: url("3aa35d2450d1355716288ce4970bcf07.svg");
+  border-top-color: rgb(218, 216, 217);
+  border-right-color: rgb(218, 216, 217);
+  border-bottom-color: rgb(218, 216, 217);
+  border-left-color: rgb(218, 216, 217);
+}
+
+html .text_block_wrap .text_block .text_title {
+  color: rgb(14, 182, 212);
+}
+
+html .edit_block_wrap {
+  background-color: rgb(14, 182, 212);
+}
+
+html .edit_block_wrap .edit_block_inner .edit_anonce .more {
+  color: rgb(255, 255, 255);
+  background-image: -webkit-linear-gradient(rgb(156, 124, 149), rgb(118, 73, 108));
+  background-image: linear-gradient(rgb(156, 124, 149), rgb(118, 73, 108));
+}
+
+html .edit_block_wrap .edit_block_inner .edit_anonce .more:hover {
+  background-image: -webkit-linear-gradient(rgb(118, 73, 108), rgb(156, 124, 149));
+  background-image: linear-gradient(rgb(118, 73, 108), rgb(156, 124, 149));
+}
+
+html .edit_block_wrap .edit_block_inner .edit_anonce .more:active {
+  background-image: -webkit-linear-gradient(rgb(114, 70, 104), rgb(116, 71, 106));
+  background-image: linear-gradient(rgb(114, 70, 104), rgb(116, 71, 106));
+}
+
+html .reviews_block_wrap .reviews_block_inner .reviews_title {
+  color: rgb(14, 182, 212);
+}
+
+html .reviews_block_wrap .reviews_block_inner .reviews_slider .reviews_item .anonce::before {
+  background-image: url("64a8629fa076a2e25a309b7d4028b1bb.svg");
+}
+
+html .reviews_block_wrap .reviews_block_inner .reviews_slider .reviews_item .title {
+  color: rgb(14, 182, 212);
+}
+
+html .reviews_block_wrap .reviews_block_inner .reviews_slider .owl-dots .owl-dot.active {
+  border-top-color: rgb(116, 71, 106);
+  border-right-color: rgb(116, 71, 106);
+  border-bottom-color: rgb(116, 71, 106);
+  border-left-color: rgb(116, 71, 106);
+}
+
+html .form_block_wrap .form_block .tpl-anketa .tpl-field.tpl-field-button .tpl-form-button {
+  background-image: -webkit-linear-gradient(rgb(86, 204, 225), rgb(16, 183, 212));
+  background-image: linear-gradient(rgb(86, 204, 225), rgb(16, 183, 212));
+}
+
+html .form_block_wrap .form_block .tpl-anketa .tpl-field.tpl-field-button .tpl-form-button:hover {
+  background-image: -webkit-linear-gradient(rgb(16, 183, 212), rgb(86, 204, 225));
+  background-image: linear-gradient(rgb(16, 183, 212), rgb(86, 204, 225));
+}
+
+html .form_block_wrap .form_block .tpl-anketa .tpl-field.tpl-field-button .tpl-form-button:active {
+  background-image: -webkit-linear-gradient(rgb(12, 171, 200), rgb(12, 171, 200));
+  background-image: linear-gradient(rgb(12, 171, 200), rgb(12, 171, 200));
+}
+
+html .wrapper-bottom-menu .bottom-menu li a:hover {
+  color: rgb(14, 182, 212);
+}
+
+html .site-footer .contacts_title {
+  color: rgb(14, 182, 212);
+}
+
+html .soc_title {
+  color: rgb(14, 182, 212);
+}
+
+html .menuTopWrapper__menuTop > li > ul > li > a::after {
+  background-image: url("5eb2e1b3af6c1bf73ad4f2b17fddd8e1.svg");
+}
+
+html .menuTopWrapper__menuTop > li > ul > li > a:hover {
+  background-color: rgb(14, 182, 212);
+}
+
+html .menuTopResponsive__menuTop > li ul li a:hover {
+  background-color: rgb(14, 182, 212);
+}
+
+html a:hover {
+  color: rgb(14, 182, 212);
+}
+
